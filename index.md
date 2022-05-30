@@ -8,8 +8,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[External File Project](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Linked File Project](/files/Day 12 - 21 days to data.pdf)
+<img src="images/21 Days To Data Challenge.png?raw=true"/>
 
 ---
 [External Link Project]([https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith/])
