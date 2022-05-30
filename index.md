@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[External Link Project](http://example.com/)
+[External Link Project]([http://example.com/](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith/))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
