@@ -1,4 +1,4 @@
-## Data Analytics Projeect Portfolio
+## Data Analytics Project Portfolio
 
 ### Introduction
 
