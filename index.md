@@ -6,7 +6,7 @@
 
 #### [Internal Blog Post Project](/sample_project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-This project 
+Tolulope is the best
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
