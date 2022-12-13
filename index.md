@@ -1,8 +1,8 @@
-# My Data Analytics Portfolio
+# Welcome to My Portfolio
 
 ---
 
-### General Analytics Projects
+### Learn About My Projects
 
 #### [Internal Blog Post Project](/sample_project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
